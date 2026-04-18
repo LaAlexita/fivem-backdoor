@@ -8,7 +8,7 @@ Common backdoor indicators found in malicious FiveM resources:
 - `esx_society:openBossMenu`
 - `esx_truckerjob:pay`
 - `esx_vehicleshop:setVehicleOwned`
-- `NB:recruterplayer`
+- `NB:recruiterplayer`
 - `mellotrainer:adminTempBan`
 - `esx_drugs:startHarvestWeed`
 - `esx_drugs:startTransformWeed`
